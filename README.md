@@ -34,10 +34,8 @@ Each paper should contain a short abstract, clarifying the relation of the paper
 Papers should be submitted electronically as a self-contained PDF file via the [submission system](https://easychair.org/conferences/?conf=icpm2027). When submitting your paper in the submission system, please select the name of the workshop track, “Robust and Resilient Process Mining.”
 Submissions must be original contributions that have not been published or submitted to other conferences or journals in parallel with this workshop.
 
-###**Publication**
 Springer will publish all workshop papers as a post-workshop proceedings volume in the Lecture Notes in Business Information Processing (LNBIP) series.
 
-###**Registration**
 At least one author of each accepted paper must register and participate in the workshop. Please visit the [main conference website](https://icpmconference.org/2027/) for more information.
 
 ### **Important Dates**
