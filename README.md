@@ -6,9 +6,10 @@ In practice, this idealised image does not always hold up. Data is often imperfe
 ## **Robust and Resilient Process Mining**
 ...aims to explicitly consider and confront such issues: individually or conjunctively. Here, with robustness, we refer to the ability of systems, algorithms, or techniques to prevent issues stemming from faulty, erroneous data, or uninformed use. Conversely, resilience refers to the ability of such systems, algorithms, or techniques to react to or recover from such factors. Considering both aspects ensures that intents, purposes, and assumptions of data, algorithms, and algorithmic pipelines are properly recognised, accounted for, and taken into account in practice, research, and development. Doing so, ensures valid and reliable insights, which ultimately enables the safe applicability of process mining “in the wild”. 
 
-### **Potential Topics**
 The aim of the workshop is to disseminate and discuss various aspects of robust and resilient process mining. The workshop shall sensitise participants towards the importance of these aspects, and shall provide a space for topics related to the validity, reliability, applicability, and effective use of process mining solutions.
+This 1st edition of the workshop will be co-located with the [8th International Conference on Process Mining, ICPM'27](https://icpmconference.org/2027/).
 
+### **Potential Topics**
 We invite submissions relating to the design, analysis, or usage of robust and resilient process mining techniques and pipelines. Accordingly, the workshop
 welcomes submission on the following (or related) topics:
 * Data quality management: defining, detecting, quantifying and repairing data quality issues.
@@ -28,11 +29,31 @@ We encourage all technical, theoretical, and empirical submissions that deal wit
 process mining solutions.
 
 ### **Submission Guidelines**
+Submissions must use the Springer LNCS/LNBIP format ([Found here](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)). Submissions must be in English and cannot exceed 12 pages (including tables, figures, the bibliography, and appendices). 
+Each paper should contain a short abstract, clarifying the relation of the paper with the main topics (preferably using the list of topics above), clearly stating the problem being addressed, the goal of the work, the results achieved, and the relation to other work.
+Papers should be submitted electronically as a self-contained PDF file via the [submission system](https://easychair.org/conferences/?conf=icpm2027). When submitting your paper in the submission system, please select the name of the workshop track, “Robust and Resilient Process Mining.”
+Submissions must be original contributions that have not been published or submitted to other conferences or journals in parallel with this workshop.
 
+###**Publication**###
+Springer will publish all workshop papers as a post-workshop proceedings volume in the Lecture Notes in Business Information Processing (LNBIP) series.
+
+###**Registration**###
+At least one author of each accepted paper must register and participate in the workshop. Please visit the [main conference website](https://icpmconference.org/2027/) for more information.
+
+### **Important Dates**
+**Author Abstract Submission**:  November 11, 2026 (AoE)
+**Author Paper Submission**: November 18, 2026 (AoE)
+**Author Paper Acceptance Notification**: December 21, 2026 (AoE)
+**Author Pre-workshop Camera-Ready Papers**: January 21, 2027 (AoE)
+**Workshops**: February 8, 2027
+**Post-workshop Camera-Ready Papers**: February 22, 2027
+
+---
 ### **Program**
 TBA
 
-### **Program Chairs**
+
+### **Workshop Organizers**
 **Yannis Bertrand** is an assistant professor in the business informatics research
 group at Hasselt University. He received the PhD degree from KU Leuven
 (Belgium) in 2024 with a thesis titled “Enhancing process mining with IoT data”.
@@ -67,5 +88,9 @@ technology-driven transformation. Her research interests include data quality
 management, scalable data curation process modelling and compliance, and
 information resilience.
 
-### Program Committee
+### **Program Committee**
 TBA
+
+---
+For further information do not heistate to contact the workshop organizers at [r2pm-2027@easychair.org](r2pm-2027@easychair.org).
+
