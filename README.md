@@ -34,25 +34,21 @@ Each paper should contain a short abstract, clarifying the relation of the paper
 Papers should be submitted electronically as a self-contained PDF file via the [submission system](https://easychair.org/conferences/?conf=icpm2027). When submitting your paper in the submission system, please select the name of the workshop track, “Robust and Resilient Process Mining.”
 Submissions must be original contributions that have not been published or submitted to other conferences or journals in parallel with this workshop.
 
-###**Publication**###
+###**Publication**
 Springer will publish all workshop papers as a post-workshop proceedings volume in the Lecture Notes in Business Information Processing (LNBIP) series.
 
-###**Registration**###
+###**Registration**
 At least one author of each accepted paper must register and participate in the workshop. Please visit the [main conference website](https://icpmconference.org/2027/) for more information.
 
 ### **Important Dates**
-**Author Abstract Submission**:  November 11, 2026 (AoE)
-**Author Paper Submission**: November 18, 2026 (AoE)
-**Author Paper Acceptance Notification**: December 21, 2026 (AoE)
-**Author Pre-workshop Camera-Ready Papers**: January 21, 2027 (AoE)
-**Workshops**: February 8, 2027
-**Post-workshop Camera-Ready Papers**: February 22, 2027
+- **Author Abstract Submission**:  November 11, 2026 (AoE)
+- **Author Paper Submission**: November 18, 2026 (AoE)
+- **Author Paper Acceptance Notification**: December 21, 2026 (AoE)
+- **Author Pre-workshop Camera-Ready Papers**: January 21, 2027 (AoE)
+- **Workshops**: February 8, 2027
+- **Post-workshop Camera-Ready Papers**: February 22, 2027
 
 ---
-### **Program**
-TBA
-
-
 ### **Workshop Organizers**
 **Yannis Bertrand** is an assistant professor in the business informatics research
 group at Hasselt University. He received the PhD degree from KU Leuven
