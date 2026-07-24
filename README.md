@@ -1,5 +1,3 @@
-# 1st International Worskhop for Robust and Resilient Process Mining
-
 Lorem Ipsum
 
 # Program Chairs
