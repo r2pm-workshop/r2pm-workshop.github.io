@@ -3,10 +3,12 @@ driven solutions for tasks ranging from automated process discovery, conformance
 
 In practice, this idealised image does not always hold up. Data is often imperfect, incomplete, or biased. Algorithms rely on hidden assumptions, unknown errors, or misaligned heuristics. Similarly, the presentation and interpretation of results can be faulty. Issues stemming from individual steps in the process mining pipeline ripple through the analysis, inhibiting reliable and valid outcomes. It is imperative to consider these issues when building algorithms or applying process mining in practise. Furthermore, experimental research in process mining frequently relies on a narrow selection of event logs or imperfect metrics, resulting in findings that lack generalisability and robustness across diverse, real-world processes.
 
-**Robust and resilient process mining** aims to explicitly consider and confront such issues: individually or conjunctively. Here, with robustness, we refer to the ability of systems, algorithms, or techniques to prevent issues stemming from faulty, erroneous data, or uninformed use. Conversely, resilience refers to the ability of such systems, algorithms, or techniques to react to or recover from such factors. Considering both aspects ensures that intents, purposes, and assumptions of data, algorithms, and algorithmic pipelines are properly recognised, accounted for, and taken into account in practice, research, and development. Doing so, ensures valid and reliable insights, which ultimately enables the safe applicability of process mining “in the wild”. 
-The aim of the workshop is to disseminate and discuss various aspects of robust and resilient process mining. The workshop sensitises participants towards the importance of these aspects, and provides space for topics related to the validity, reliability, applicability, and effective use of process mining solutions.
+## Robust and resilient process mining 
+...aims to explicitly consider and confront such issues: individually or conjunctively. Here, with robustness, we refer to the ability of systems, algorithms, or techniques to prevent issues stemming from faulty, erroneous data, or uninformed use. Conversely, resilience refers to the ability of such systems, algorithms, or techniques to react to or recover from such factors. Considering both aspects ensures that intents, purposes, and assumptions of data, algorithms, and algorithmic pipelines are properly recognised, accounted for, and taken into account in practice, research, and development. Doing so, ensures valid and reliable insights, which ultimately enables the safe applicability of process mining “in the wild”. 
 
-# Potential Topics
+## Potential Topics
+The aim of the workshop is to disseminate and discuss various aspects of robust and resilient process mining. The workshop shall sensitise participants towards the importance of these aspects, and shall provide a space for topics related to the validity, reliability, applicability, and effective use of process mining solutions.
+
 We invite submissions relating to the design, analysis, or usage of robust and resilient process mining techniques and pipelines. Accordingly, the workshop
 welcomes submission on the following (or related) topics:
 * Data quality management: defining, detecting, quantifying and repairing
@@ -75,5 +77,5 @@ technology-driven transformation. Her research interests include data quality
 management, scalable data curation process modelling and compliance, and
 information resilience.
 
-# PC Committee
+# Program Committee
 TBA
