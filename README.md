@@ -38,6 +38,10 @@ Springer will publish all workshop papers as a post-workshop proceedings volume 
 
 At least one author of each accepted paper must register and participate in the workshop. Please visit the [main conference website](https://icpmconference.org/2027/) for more information.
 
+---
+### **Workhop Program**
+TBA
+
 ### **Important Dates**
 - **Author Abstract Submission**:  November 11, 2026 (AoE)
 - **Author Paper Submission**: November 18, 2026 (AoE)
@@ -86,5 +90,5 @@ information resilience.
 TBA
 
 ---
-For further information do not heistate to contact the workshop organizers at [r2pm-2027@easychair.org](r2pm-2027@easychair.org).
+For further information do not hesitate to contact the workshop organizers at [r2pm-2027@easychair.org](r2pm-2027@easychair.org).
 
