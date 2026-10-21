@@ -95,6 +95,8 @@ information resilience.
 - Stephan A. Fahrenkrog-Petersen, *University of Liechtenstein*
 - Mohammadreza Fani Sani, *Microsoft*
 - Marco Franceschetti, *University of St. Gallen*
+- Sander Leemans, *RWTH Aachen*
+- Lukas Malburg, *University of Trier*
 - Andrea Maldonado, *University of Bayreuth*
 - Marco Pegoraro, *RWTH Aachen*
 - Majid Rafiei, *SAP SE*
