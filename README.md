@@ -39,7 +39,7 @@ Springer will publish all workshop papers as a post-workshop proceedings volume 
 At least one author of each accepted paper must register and participate in the workshop. Please visit the [main conference website](https://icpmconference.org/2027/) for more information.
 
 ---
-### **Workhop Program**
+### <span id="workhop-program"></span>**Workshop Program**
 TBA
 
 ### **Important Dates**
@@ -87,19 +87,23 @@ management, scalable data curation process modelling and compliance, and
 information resilience.
 
 ### **Program Committee**
-- Matthias Weidlich
-- Jan Martijn van der Werf
-- Irina Tentina
-- Jana-Rebecca Rehse
-- Majid Rafiei
-- Marco Franceschetti
-- Mohammadreza Fani Sani
-- Stephan A. Fahrenkrog-Petersen
-- Benoît Depaire
-- Jochen De Weerdt
-- Tianwa Chen
-- Maike Basmer
+- Maike Basmer, *Hasso Plattner Institute*
+- Tianwa Chen, *The University of Queensland*
+- Marco Comuzzi, *Ulsan National Institute of Science and Technology*
+- Jochen De Weerdt, *KU Leuven*
+- Benoît Depaire, *Hasselt University*
+- Stephan A. Fahrenkrog-Petersen, *University of Liechtenstein*
+- Mohammadreza Fani Sani, *Microsoft*
+- Marco Franceschetti, *University of St. Gallen*
+- Andrea Maldonado, *University of Bayreuth*
+- Marco Pegoraro, *RWTH Aachen*
+- Majid Rafiei, *SAP SE*
+- Jana-Rebecca Rehse, *University of Zurich*
+- Irina Tentina, *Eindhoven University of Technology*
+- Jan Martijn van der Werf, *Utrecht University*
+- Matthias Weidlich, *Hasso Plattner Institute*
 
 ---
-For further information do not hesitate to contact the workshop organizers at [r2pm-2027@easychair.org](r2pm-2027@easychair.org).
+### **Contact**
+For further information do not hesitate to contact the workshop organizers at [r2pm-2027@easychair.org](mailto:r2pm-2027@easychair.org).
 

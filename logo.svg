@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="25 15 200 285" width="100%" height="100%">
+  <defs>
+    <!-- Continuous Background Brick Pattern -->
+    <pattern id="bricks" width="24" height="20" patternUnits="userSpaceOnUse" x="50" y="40">
+      <!-- Brick Fill -->
+      <rect width="24" height="20" fill="#507C9E" />
+      <!-- Uniform Mortar Lines -->
+      <path d="
+        M 0,0 L 24,0
+        M 0,10 L 24,10
+        M 0,20 L 24,20
+        M 12,0 L 12,10
+        M 0,10 L 0,20
+        M 24,10 L 24,20
+      " stroke="#0C2340" stroke-width="2" fill="none" />
+    </pattern>
+
+    <!--
+      PROCESS MODEL COMPONENTS
+      Start/End = Circles
+      Activities = Rectangles
+      Gateways = Diamonds
+    -->
+    <g id="pm-nodes">
+      <!-- Start Place -->
+      <circle cx="125" cy="55" r="7" />
+
+      <!-- Activity 1 -->
+      <rect x="105" y="70" width="40" height="18" rx="2" />
+
+      <!-- Split Gateway -->
+      <polygon points="125,96 135,106 125,116 115,106" />
+
+      <!-- Parallel Activities 2 & 3 -->
+      <rect x="68" y="120" width="40" height="18" rx="2" />
+      <rect x="142" y="120" width="40" height="18" rx="2" />
+
+      <!-- Join Gateway -->
+      <polygon points="125,140 135,150 125,160 115,150" />
+
+      <!-- End Activity -->
+      <rect x="105" y="170" width="40" height="18" rx="2" />
+
+      <!-- End Place -->
+      <circle cx="125" cy="205" r="7" />
+    </g>
+
+    <!-- Small internal arrows -->
+    <g id="pm-arrows">
+      <!-- To Act 1 -->
+      <polygon points="122,66 128,66 125,70" />
+      <!-- To Split -->
+      <polygon points="122,92 128,92 125,96" />
+      <!-- To Act 2 (Left) -->
+      <polygon points="85,116 91,116 88,120" />
+      <!-- To Act 3 (Right) -->
+      <polygon points="159,116 165,116 162,120" />
+      <!-- To Join (Left) -->
+      <polygon points="111,147 111,153 115,150" />
+      <!-- To Join (Right) -->
+      <polygon points="139,147 139,153 135,150" />
+      <!-- To End Activity -->
+      <polygon points="122,166 128,166 125,170" />
+      <!-- To End Circle -->
+      <polygon points="122,194 128,194 125,198" />
+    </g>
+
+    <g id="pm-paths">
+      <!-- Start to Act 1 -->
+      <path d="M 125,62 L 125,70" />
+      <!-- Act 1 to Split -->
+      <path d="M 125,88 L 125,96" />
+      <!-- Split to Act 2 & Act 3 -->
+      <path d="M 115,106 L 88,106 L 88,120" />
+      <path d="M 135,106 L 162,106 L 162,120" />
+      <!-- Act 2 & Act 3 to Join -->
+      <path d="M 88,138 L 88,150 L 115,150" />
+      <path d="M 162,138 L 162,150 L 135,150" />
+      <!-- Join to End Activity -->
+      <path d="M 125,160 L 125,170" />
+      <!-- End Activity to End Circle -->
+      <path d="M 125,188 L 125,198" />
+    </g>
+  </defs>
+
+  <!-- Shield Base (Continuous Bricks) -->
+  <path d="M 125 40 L 50 65 L 50 145 C 50 195 125 235 125 235 C 125 235 200 195 200 145 L 200 65 Z"
+        fill="url(#bricks)"
+        stroke="#0C2340"
+        stroke-width="5"
+        stroke-linejoin="round" />
+
+  <!--
+    PROCESS MODEL LAYER 1: Dark Navy Outline
+    Rendered with rounded joints and thick strokes to create a perfect background border.
+  -->
+  <g stroke="#0C2340" stroke-linejoin="round" stroke-linecap="round">
+    <use href="#pm-paths" stroke-width="12" fill="none" />
+    <use href="#pm-arrows" stroke-width="5" fill="#0C2340" />
+    <use href="#pm-nodes" stroke-width="8" fill="#0C2340" />
+  </g>
+
+  <!--
+    PROCESS MODEL LAYER 2: Solid Gold Fill
+    Rendered right on top to fill in the lines and nodes flawlessly.
+  -->
+  <g stroke="#C29B57" stroke-linejoin="round" stroke-linecap="round">
+    <use href="#pm-paths" stroke-width="4" fill="none" />
+    <use href="#pm-arrows" stroke-width="1" fill="#C29B57" />
+    <use href="#pm-nodes" stroke-width="1" fill="#C29B57" />
+  </g>
+
+  <!-- Typography -->
+  <text x="125" y="275" font-family="'Montserrat', 'Arial Black', sans-serif" font-weight="900" font-size="44" fill="#0C2340" text-anchor="middle" letter-spacing="1">R2PM</text>
+</svg>

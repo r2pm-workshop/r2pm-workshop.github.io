@@ -1,0 +1,5 @@
+---
+layout: workshop
+---
+{% capture workshop_content %}{% include_relative README.md %}{% endcapture %}
+{{ workshop_content | markdownify }}

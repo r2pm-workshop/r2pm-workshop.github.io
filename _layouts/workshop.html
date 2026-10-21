@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <meta name="theme-color" content="#0c2340">
+    <link rel="icon" href="{{ '/logo.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/workshop.css' | relative_url }}">
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header">
+      <div class="site-header-inner page-width">
+        <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="R2PM 2027 home">
+          <span>R2PM<span class="wordmark-dot">.</span></span>
+          <span class="wordmark-year">2027</span>
+        </a>
+        <nav class="header-links" aria-label="Conference links">
+          <a href="https://icpmconference.org/2027/">Part of ICPM 2027 <span aria-hidden="true">↗</span></a>
+          <a href="#contact">Get in touch <span aria-hidden="true">↗</span></a>
+        </nav>
+      </div>
+    </header>
+
+    <section class="hero" aria-labelledby="workshop-title">
+      <div class="hero-inner page-width">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="edition-mark" aria-hidden="true"></span>1st International Workshop</p>
+          <h1 id="workshop-title">Robust and Resilient <span>Process Mining</span></h1>
+          <p class="hero-description">Towards reliable insights and the effective use of process mining in the wild.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#submission-guidelines">Submission guidelines <span aria-hidden="true">↗</span></a>
+            <a class="button button-text" href="#potential-topics">Explore the topics <span aria-hidden="true">↓</span></a>
+          </div>
+        </div>
+        <div class="hero-art">
+          <div class="logo-frame">
+            <img src="{{ '/logo.svg' | relative_url }}" width="200" height="285" alt="R2PM logo: a process model within a protective shield">
+          </div>
+          <p>Robustness. Resilience. Reliability.</p>
+        </div>
+      </div>
+      <div class="hero-footnote page-width">
+        <span>A forum for research, ideas, and discussion</span>
+        <a href="https://icpmconference.org/2027/">Co-located with the 8th International Conference on Process Mining <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <div class="content-layout page-width">
+      <aside class="section-navigation">
+        <nav aria-label="On this page">
+          <p class="eyebrow">In this workshop</p>
+          <a href="#main-content"><span aria-hidden="true">01</span> About the workshop</a>
+          <a href="#potential-topics"><span aria-hidden="true">02</span> Potential topics</a>
+          <a href="#submission-guidelines"><span aria-hidden="true">03</span> Submission guidelines</a>
+          <a href="#workshop-program"><span aria-hidden="true">04</span> Workshop program</a>
+          <a href="#important-dates"><span aria-hidden="true">05</span> Important dates</a>
+          <a href="#workshop-organizers"><span aria-hidden="true">06</span> Workshop organizers</a>
+          <a href="#program-committee"><span aria-hidden="true">07</span> Program committee</a>
+          <a href="#contact"><span aria-hidden="true">08</span> Contact</a>
+        </nav>
+      </aside>
+      <main id="main-content" class="workshop-content" tabindex="-1">
+        {{ content }}
+      </main>
+    </div>
+
+    <footer class="site-footer">
+      <div class="page-width footer-inner">
+        <p><strong>R2PM 2027</strong><span>Robust and Resilient Process Mining</span></p>
+        <a href="#top">Back to top <span aria-hidden="true">↑</span></a>
+      </div>
+    </footer>
+  </body>
+</html>

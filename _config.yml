@@ -1,3 +1,7 @@
 remote_theme: "jekyll/minima@1e8a445"
 title: R2PM 2027 - 1st International Workshop on Robust and Resilient Process Mining
 description: 1st International Workshop on Robust and Resilient Process Mining
+lang: en
+logo: /logo.svg
+plugins:
+  - jekyll-seo-tag
