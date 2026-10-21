@@ -87,7 +87,18 @@ management, scalable data curation process modelling and compliance, and
 information resilience.
 
 ### **Program Committee**
-TBA
+- Matthias Weidlich
+- Jan Martijn van der Werf
+- Irina Tentina
+- Jana-Rebecca Rehse
+- Majid Rafiei
+- Marco Franceschetti
+- Mohammadreza Fani Sani
+- Stephan A. Fahrenkrog-Petersen
+- Benoît Depaire
+- Jochen De Weerdt
+- Tianwa Chen
+- Maike Basmer
 
 ---
 For further information do not hesitate to contact the workshop organizers at [r2pm-2027@easychair.org](r2pm-2027@easychair.org).
