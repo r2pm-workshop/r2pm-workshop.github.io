@@ -44,7 +44,7 @@ TBA
 
 ### **Important Dates**
 - **Author Abstract Submission**:  ~~November 11, 2026 (AoE)~~ November 15, 2026 (AoE) (**Extended**)
-- **Author Paper Submission**: ~~November 18, 2026 (AoE)~~  Novemenber 22, 2026 (AoE) (**Extended**)
+- **Author Paper Submission**: ~~November 18, 2026 (AoE)~~  November 22, 2026 (AoE) (**Extended**)
 - **Author Paper Acceptance Notification**: December 21, 2026 (AoE)
 - **Author Pre-workshop Camera-Ready Papers**: January 21, 2027 (AoE)
 - **Workshops**: February 8, 2027
